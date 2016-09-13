@@ -1,6 +1,7 @@
 class Hello
-pulic static void main (String[] args){
-	
-system.out.printin ("Hello World!");
-
+{
+	public static void main (String[] args)
+	{
+		System.out.println ("Hello World!");
+	}
 }
