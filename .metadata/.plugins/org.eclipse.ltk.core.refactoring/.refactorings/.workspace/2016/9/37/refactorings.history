@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;JavaInEasySteps&apos;" deleteContents="true" description="Delete resource &apos;JavaInEasySteps&apos;" element1="/JavaInEasySteps" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1473884291238"/>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JavaInEasySteps&apos;" deleteContents="true" description="Delete resource &apos;JavaInEasySteps&apos;" element1="/JavaInEasySteps" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1473884291238"/>&#x0A;<refactoring comment="Rename Java project &apos;JiES&apos; to &apos;Java_in_easy_steps&apos;&#x0D;&#x0A;- Original element: &apos;JiES&apos;&#x0D;&#x0A;- Renamed element: &apos;JiES&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;JiES&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=JiES" name="Java_in_easy_steps" references="true" stamp="1473885215723" version="1.0"/>
 </session>
